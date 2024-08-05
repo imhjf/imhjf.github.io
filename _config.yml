@@ -2,18 +2,18 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://imhjf.github.io
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+title: 大鹅
+subtitle: "今天天气晴"
+description: "大鹅的记录"
+keywords: 大鹅, hjf, imhjf, 鑫鸽
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
-since: 2015
+since: 2024
 # 源码仓库，请替换成自己的
-repository: mzlogin/mzlogin.github.io
+repository: imhjf/imhjf.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -165,29 +165,29 @@ disqus:
     username: 
 # gitment 配置参考：https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: imhjf
     repo: blog-comments
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: Ov23liWTMITdvuM23YaZ
+        client_secret: fbb62d7b11771dfd0816bde262a2512e940feb4b
 # gitalk 配置参考：https://github.com/gitalk/gitalk#install
 gitalk:
     owner: mzlogin
     repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    clientID: Ov23liWTMITdvuM23YaZ
+    clientSecret: fbb62d7b11771dfd0816bde262a2512e940feb4b
 # utterances 配置参考：https://utteranc.es/
 utterances:
-    repo: mzlogin/blog-comments
+    repo: imhjf/blog-comments
 # beaudar 配置参考：https://beaudar.lipk.org/
 beaudar:
-    repo: mzlogin/blog-comments
+    repo: imhjf/blog-comments
 # giscus 配置参考：https://giscus.app/zh-CN
 giscus:
-    repo: mzlogin/blog-comments
-    repo-id: MDEwOlJlcG9zaXRvcnk5MzEyNzkxNw==
+    repo: imhjf/blog-comments
+    repo-id: R_kgDOMfS5IA
     category: Announcements
-    category-id: DIC_kwDOBY0E7c4CRtg9
+    category-id: DIC_kwDOMfS5IM4ChZqg
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
